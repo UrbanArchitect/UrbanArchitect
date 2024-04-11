@@ -1,0 +1,11 @@
+transformers
+tokenizers
+coloredlogs
+einops
+imageio
+numpy
+opencv-python
+Pillow
+scipy
+scikit-image
+xformers
