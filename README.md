@@ -1,6 +1,6 @@
 # Urban Architect: Steerable 3D Urban Scene Generation with Layout Prior
 
-[![arXiv](https://img.shields.io/badge/arXiv-2307.10173-b31b1b.svg)](https://arxiv.org/abs/2404.06780) <a href="https://urbanarchitect.github.io/">
+[![arXiv](https://img.shields.io/badge/arXiv-2404.06780-b31b1b.svg)](https://arxiv.org/abs/2404.06780) <a href="https://urbanarchitect.github.io/">
 <img alt="Project" src="https://img.shields.io/badge/-Project%20Page-lightgrey?logo=Google%20Chrome&color=informational&logoColor=white"></a> 
 <a href="https://youtu.be/_TQQoQLnvPc"><img alt="Demo" src="https://img.shields.io/badge/-Demo-ea3323?logo=youtube"></a> 
 
@@ -30,3 +30,20 @@ Please refer to `refine.sh`.
 
 ### Render video
 Please refer to `render.sh`.
+
+## To-Do List
+
+- [ ] Release 3D layout data
+- [x] Technical Report
+- [x] Project page
+
+## Citation
+If you find this project useful for your work, please consider citing:
+```
+@article{lu2024urban,
+  title={Urban Architect: Steerable 3D Urban Scene Generation with Layout Prior},
+  author={Lu, Fan and Lin, Kwan-Yee and Xu, Yan and Li, Hongsheng and Chen, Guang and Jiang, Changjun},
+  journal={arXiv preprint arXiv:2404.06780},
+  year={2024}
+}
+```
