@@ -43,6 +43,10 @@ Please refer to `render.sh`.
 - [x] Technical Report
 - [x] Project page
 
+## Related Work
+* (ICCV 2023) **Urban Radiance Field Representation with Deformable Neural Mesh Primitives**, Fan Lu et al. [[Paper](https://arxiv.org/abs/2307.10776)], [[Project Page](https://dnmp.github.io/)]
+
+
 ## Citation
 If you find this project useful for your work, please consider citing:
 ```
