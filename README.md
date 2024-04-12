@@ -4,7 +4,11 @@
 <img alt="Project" src="https://img.shields.io/badge/-Project%20Page-lightgrey?logo=Google%20Chrome&color=informational&logoColor=white"></a> 
 <a href="https://www.youtube.com/watch?v=CEPquApsPjI&ab_channel=FanLu"><img alt="Demo" src="https://img.shields.io/badge/-Demo-ea3323?logo=youtube"></a> 
 
-<img src="./assets/diversecities.png" width="96%" height="96%">
+
+
+
+https://github.com/UrbanArchitect/UrbanArchitect/assets/13656744/ffd06914-f522-44a2-9a44-93a516506e36
+
 
 ## Introduction
 The repository contains the official implementation of source code and pre-trained models of our paper:*"[Urban Architect: Steerable 3D Urban Scene Generation with Layout Prior]()"*. It is a novel pipeline for large-scale 3D urban scene generation!
