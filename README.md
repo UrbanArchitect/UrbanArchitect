@@ -2,13 +2,13 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2404.06780-b31b1b.svg)](https://arxiv.org/abs/2404.06780) <a href="https://urbanarchitect.github.io/">
 <img alt="Project" src="https://img.shields.io/badge/-Project%20Page-lightgrey?logo=Google%20Chrome&color=informational&logoColor=white"></a> 
-<a href="https://youtu.be/_TQQoQLnvPc"><img alt="Demo" src="https://img.shields.io/badge/-Demo-ea3323?logo=youtube"></a> 
+<a href="https://www.youtube.com/watch?v=CEPquApsPjI&ab_channel=FanLu"><img alt="Demo" src="https://img.shields.io/badge/-Demo-ea3323?logo=youtube"></a> 
 
 ## Introduction
 The repository contains the official implementation of source code and pre-trained models of our paper:*"[Urban Architect: Steerable 3D Urban Scene Generation with Layout Prior]()"*. It is a novel pipeline for large-scale 3D urban scene generation!
 
 ## Updates
-- 2024.04.11: The:fire::fire::fire:**[pre-print](https://arxiv.org/abs/2404.06780)**:fire::fire::fire:is released! Refer to it for more details!
+- 2024.04.11: The :fire::fire::fire: **[pre-print](https://arxiv.org/abs/2404.06780)** :fire::fire::fire: is released! Refer to it for more details!
 - 2024.04.10: The [project page](https://urbanarchitect.github.io/) is created. Check it out for an overview of our work!
 
 ## Environments
