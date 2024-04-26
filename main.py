@@ -577,7 +577,7 @@ class Trainer:
 
         self.reset_optimizer(self.base_lr)
 
-        self.poses = self.poses[0:len(self.poses):20]
+        self.poses = self.poses[0:len(self.poses):5]
 
         if self.pre_generation and not self.finetune:
             control_images = []
